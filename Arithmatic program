@@ -1,0 +1,5 @@
+#multpily two number by user input
+a = int(input("Enter you first number"))
+b = int(input("enter you second "))
+product = a*b
+print(product)
